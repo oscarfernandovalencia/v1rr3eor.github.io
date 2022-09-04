@@ -1,3 +1,3 @@
-$secc=document.getelementbyname=("Seccion")
+$secc=document.getelementbyid=("seccion")
 
 $nombre=prompt("Ingrese su nombre")
