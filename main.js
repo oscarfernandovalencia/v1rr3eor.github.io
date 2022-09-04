@@ -1,1 +1,1 @@
-promt("hola")
+prompt("hola")
