@@ -1,0 +1,7 @@
+body {
+  backgroud-color: gray;
+}
+
+ul li{
+  display: inline-block;
+}
