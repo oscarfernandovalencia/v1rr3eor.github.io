@@ -1,0 +1,33 @@
+body{
+  background: #DDDDDD;
+  width: 80% ;
+  text-align: center;
+  margin: auto;
+}
+
+nav h4{
+  display: inline;
+  background: black;
+  margin: 5px;
+  padding: 
+}
+a{
+  color: #75c0e0;
+}
+nav{
+  background: black;
+}
+a:hover{
+ color: aqua;
+}
+header{
+  background: black;
+  color: white;
+}
+aside{
+  background-color: black;
+  color: #75c0e0;
+  width: 60%;
+  padding: auto;
+  margin: auto;
+}
