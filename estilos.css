@@ -1,7 +1,7 @@
 body{
   display: grid;
   grid-template-columns: 40% 40%;
-  grid-template-rows: auto;
+  grid-template-rows: repeat(5,auto);
   grid-gap: 10px;
   background: #DDDDDD;
   width: 80% ;
