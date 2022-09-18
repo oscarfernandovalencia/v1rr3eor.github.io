@@ -1,4 +1,8 @@
 body{
+  display: grid;
+  grid-template-columns: 2;
+  grid-template-rows: 5;
+  grid-gap: 10px;
   background: #DDDDDD;
   width: 80% ;
   text-align: center;
