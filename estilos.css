@@ -28,7 +28,7 @@ header{
   background: black;
   color: white;
 }
-section{
+.contratos{
   grid-column: 1/2;
   grid-row: 1;
 }
